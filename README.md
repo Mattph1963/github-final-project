@@ -1,4 +1,4 @@
-Simple Interest Calculator
+﻿Simple Interest Calculator
 This program calculates the simple interest based on the provided inputs:
 
 Input:
@@ -49,3 +49,15 @@ The output will be 100.
 
 # github-final-project
 Getting Started with Git &amp; GitHub
+
+
+
+
+
+
+2023 XYZ, Inc.
+
+
+
+
+
